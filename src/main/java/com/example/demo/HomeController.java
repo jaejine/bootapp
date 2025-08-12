@@ -11,7 +11,7 @@ public class HomeController {
 	@ResponseBody
 	public String main() {
 		System.out.println("main handler 실행");
-		return "hello springboot";
+		return "app1 main SIM JAE JINE";
 	}
 	
 }// end main
